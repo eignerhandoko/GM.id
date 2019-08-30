@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "170072781223",
+    "firebase_url": "https://gmid-7d2d1.firebaseio.com",
+    "project_id": "gmid-7d2d1",
+    "storage_bucket": "gmid-7d2d1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:170072781223:android:35f8646340c7efcf",
+        "android_client_info": {
+          "package_name": "edu.bluejack182.GMid"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "170072781223-bbddhs6t738a6vf5ptc0d7hit270em2l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDlH2Pb6P0YwLwEqsr_0MTVDyXEGqcD79U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "170072781223-bbddhs6t738a6vf5ptc0d7hit270em2l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
